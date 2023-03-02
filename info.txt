@@ -1,0 +1,4 @@
+aulas do kako na alura, primeiros três cursos
+criando app de habito com gamificação
+terminou com persistencia de dados usando SQFlite
+tem tarefas a fazer
